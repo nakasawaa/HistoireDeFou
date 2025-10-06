@@ -17,3 +17,4 @@ Vilain continue de surveiller le hero
 
 Hero cherche la suite de l'aventure et demande aux villages alentours
 
+Vilain attaque le héro avec lemprise des villageois
