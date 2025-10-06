@@ -31,3 +31,5 @@ le vilain s'entraine pour vaincre le hero plus facilement
 Hero trouve un nouveau village et obtient la localisation de la base du vilain
 
 Vilain envoi un mechant menacer tout les gens pour trouver le hero
+
+Hero se bat contre tous les mercenaires envoyés par le vilain
