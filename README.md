@@ -1,5 +1,5 @@
 # HistoireDeFou
-## Chapitre 1
+## Chapitre 1 - Call to Adventure
 Hero obtient un chapeau de paille
 
 Le vilain est un grand méchant.
@@ -10,3 +10,13 @@ Vilain suit hero
 
 Hero trouve une épée dans la fôret
 
+## Chapitre 2 - Supernatural Aid
+Hero ne reçoit pas d'aide car possède une force surnaturel
+
+Vilain continue de surveiller le hero
+
+Hero cherche la suite de l'aventure et demande aux villages alentours
+
+Vilain attaque le héro avec lemprise des villageois
+
+Hero a des pulsions de tuer le vilain et regards les villageois avec un suptile regards
