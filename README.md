@@ -8,7 +8,7 @@ Hero part du village
 
 Vilain suit hero
 
-Hero trouve une épée dans la fôret
+Hero trouve une épée dans la fôret et a des pulsions sombres
 
 ## Chapitre 2 - Supernatural Aid
 Hero ne reçoit pas d'aide car possède une force surnaturel
