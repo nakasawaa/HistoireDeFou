@@ -21,5 +21,7 @@ Vilain attaque le héro avec lemprise des villageois
 
 Hero a des pulsions de tuer le vilain et regards les villageois avec un suptile regards
 
+Vilain en profite pour blesser le hero et s'enfuit
+
 ## Chapitre 3 - Threshold
 Hero part vers de nouveaux villages après le combat contre le vilain
