@@ -12,3 +12,8 @@ Hero trouve une épée dans la fôret
 
 ## Chapitre 2 - Supernatural Aid
 Hero ne reçoit pas d'aide car possède une force surnaturel
+
+Vilain continue de surveiller le hero
+
+Hero cherche la suite de l'aventure et demande aux villages alentours
+
