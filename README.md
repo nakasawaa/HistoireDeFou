@@ -27,3 +27,5 @@ Vilain en profite pour blesser le hero et s'enfuit
 Hero part vers de nouveaux villages après le combat contre le vilain
 
 le vilain s'entraine pour vaincre le hero plus facilement
+
+Hero trouve un nouveau village et obtient la localisation de la base du vilain
