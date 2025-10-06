@@ -14,3 +14,6 @@ Hero trouve une épée dans la fôret
 Hero ne reçoit pas d'aide car possède une force surnaturel
 
 Vilain continue de surveiller le hero
+
+Hero cherche la suite de l'aventure et demande aux villages alentours
+
