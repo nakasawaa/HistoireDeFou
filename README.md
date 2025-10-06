@@ -18,3 +18,5 @@ Vilain continue de surveiller le hero
 Hero cherche la suite de l'aventure et demande aux villages alentours
 
 Vilain attaque le héro avec lemprise des villageois
+
+Hero a des pulsions de tuer le vilain et regards les villageois avec un suptile regards
