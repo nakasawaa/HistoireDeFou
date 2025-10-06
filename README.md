@@ -25,3 +25,5 @@ Vilain en profite pour blesser le hero et s'enfuit
 
 ## Chapitre 3 - Threshold
 Hero part vers de nouveaux villages après le combat contre le vilain
+
+le vilain s'entraine pour vaincre le hero plus facilement
