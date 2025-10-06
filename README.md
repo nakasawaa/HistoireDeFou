@@ -2,3 +2,5 @@
 Hero obtient un chapeau de paille
 
 Le vilain est un grand méchant.
+
+Hero part du village
