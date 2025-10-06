@@ -1,3 +1,4 @@
 # HistoireDeFou
 Une histiore de fou
-Le vilain est un grand méchant.Hero obtient un chapeau de paille
+Hero obtient un chapeau de paille
+Le vilain est un grand méchant.
