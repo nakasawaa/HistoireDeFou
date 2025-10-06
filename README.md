@@ -33,3 +33,5 @@ Hero trouve un nouveau village et obtient la localisation de la base du vilain
 Vilain envoi un mechant menacer tout les gens pour trouver le hero
 
 Hero se bat contre tous les mercenaires envoyés par le vilain
+
+vilain intervient et goume le hero encore une fois
